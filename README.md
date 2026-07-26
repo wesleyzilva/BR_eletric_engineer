@@ -8,3 +8,5 @@ br-eletric-engineer.com.br
 
 
 https://github.com/wesleyzilva/BR_eletric_engineer/
+
+ Local padrão do projeto local E:\wesleyzilva\repo\BR_eletric_engineer
