@@ -281,6 +281,7 @@ The professional who understands engineering, renewable energy, automation, and 
 - Website com estrutura em PT e EN
 - Seções recomendadas: Home, About, Projects, Services e Contact
 - Destaque para portfólio, casos de sucesso, expertise técnica e contato direto
+- Atendimento via WhatsApp automatizado como parte essencial da experiência do cliente
 
 ### 6. Stack recomendada para o portfólio
 
