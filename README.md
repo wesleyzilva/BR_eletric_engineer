@@ -8,6 +8,8 @@ My goal is to bring the quality of Brazilian engineering to the global market, o
 
 We are a group of 3 to 5 engineers working together to discuss the best strategy for your project.
 
+Our suggested workflow is simple and objective: send us your plant, we evaluate the project value, and we deliver the project in record time with no bureaucracy.
+
 ## Benchmarking de Mercado
 
 ### Empresa analisada
