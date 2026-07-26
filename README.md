@@ -6,6 +6,42 @@ I am an electrical engineer specialized in residential and industrial projects, 
 
 My goal is to bring the quality of Brazilian engineering to the global market, offering reliable solutions for homes, industries, and international projects with clear communication in English.
 
+We are a group of 3 to 5 engineers working together to discuss the best strategy for your project.
+
+## Benchmarking de Mercado
+
+### Empresa analisada
+
+- Empresa: Denki Engenharia Elétrica
+- Razão social: Rafael Domingues Bernardo Engenharia Elétrica
+- CNPJ: 53.163.917/0001-73 / 53163917000173
+- Data de abertura: 11/12/2023
+- Porte: Micro Empresa
+- Natureza jurídica: Empresário (Individual)
+- Situação cadastral: Ativa
+- Tipo: Matriz
+- Capital social: R$ 15.000,00
+
+### Localização
+
+- Endereço: Rua Danilo Micalli, 50, Casa 14 - Via 03
+- Bairro: Cond. Res. Recanto do Bosque
+- CEP: 13563-264
+- Município: São Carlos - SP
+
+### Atividades e posicionamento
+
+- CNAE principal: 43.21-5-00 - Instalação e manutenção elétrica
+- CNAE secundário: 71.12-0-00 - Serviços de engenharia
+- Perfil de mercado: empresa jovem, regional, com foco em execução elétrica, manutenção e consultoria técnica
+
+### Oportunidades de posicionamento
+
+- Fortalecer a marca com uma proposta mais clara de especialização técnica
+- Destacar expertise em projetos residenciais, industriais, energia renovável e automação
+- Comunicar diferenciais em inglês, eficiência, segurança, sustentabilidade e atendimento internacional
+- Construir uma presença digital forte com portfólio, depoimentos e casos de sucesso
+
 ## Identity
 
 - Brazilian engineering with a global mindset
