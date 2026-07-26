@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  font-family: 'Inter', sans-serif;
+  background-color: #020617;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background: radial-gradient(circle at top right, rgba(0, 151, 57, 0.24), transparent 24%),
+      radial-gradient(circle at bottom left, rgba(255, 204, 0, 0.18), transparent 24%),
+      #020617;
+    color: #f8fafc;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  button,
+  input,
+  textarea {
+    font: inherit;
+  }
+}
+
+[data-lang-btn].active {
+  background: rgba(0, 151, 57, 0.95);
+  color: #0f172a;
+  border-color: transparent;
+}
+
+.hero-bg {
+  background: linear-gradient(180deg, rgba(0, 151, 57, 0.16), rgba(0, 39, 118, 0.04));
+}
+
+.card-shadow {
+  box-shadow: 0 30px 70px rgba(0, 0, 0, 0.35);
+}
+
+.scroll-smooth {
+  scroll-behavior: smooth;
+}

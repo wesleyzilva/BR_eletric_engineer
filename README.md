@@ -77,14 +77,14 @@ Because each project is approached with technical rigor, practical experience, a
 
 ## Recommended Technology for the Portfolio
 
-For a professional portfolio with this positioning, the best option is:
+For a professional portfolio with this positioning, the best option is a mobile-first stack designed for performance, clarity, and conversion:
 
 - Astro or Next.js for the website
-- Tailwind CSS for modern and clean design
-- Vercel or Netlify for fast deployment
-- GitHub Pages as a simple and low-cost alternative
+- Tailwind CSS for a modern, clean, and responsive design
+- Vercel or Netlify for fast deployment and excellent performance
+- GitHub Pages as a simple and low-cost alternative for the first version
 
-This stack is ideal because it offers speed, modern visual presentation, SEO optimization, and easy maintenance.
+This stack is ideal because it offers speed, modern visual presentation, strong SEO, easy maintenance, and an experience optimized for mobile users, which is essential for modern portfolios and international clients.
 
 ## Portfolio Strategy for International Clients
 
